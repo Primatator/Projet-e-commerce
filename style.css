@@ -1,3 +1,23 @@
+body{
+    margin: 5%;
+    background-color: black;
+    color: black;
+}
 li {
     list-style-type: none;
+}
+.article {
+    margin: 3%;
+    border: 2px solid red;
+    padding: 5%;
+    background-color: gray;
+
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
 }
